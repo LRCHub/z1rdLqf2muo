@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "レピド",
+  "base_artist": "カササギ",
+  "createdAt": "2026-01-12T12:28:34.355158Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レピド",
+      "artist": "カササギ",
+      "has_synced": false,
+      "path": "select/pl_01_レピド_カササギ.txt"
+    }
+  ]
+}
